@@ -1,0 +1,5 @@
+print("Enter value")
+a=int(input())
+print("Enter Value")
+b=str(input())
+print(a,b)
